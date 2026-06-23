@@ -6,3 +6,7 @@
 4. Wait while it installs Forge and downloads the mods.
 5. Open the Minecraft Launcher, pick the pack installation, and click **Play**.
 6. To update later, just run `mcclient.exe <address>` again.
+
+Open source, read it.
+
+Fuck you Tom.
