@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "9684044ce27242121445d3c81bd89947121e61c830997b8368e06c358a777831"
+metafile = true
